@@ -153,3 +153,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# data and models
+.DS_Store
+*.pkl
+task_4/data/
+task_5/data/MNIST/
